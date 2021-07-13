@@ -3,6 +3,7 @@
 docker build repo for v2fly
 
 https://hub.docker.com/r/v2fly/v2fly-core
+https://hub.docker.com/repository/docker/frozenlight/v2ray
 
 ## Server
 
